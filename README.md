@@ -23,7 +23,7 @@ EnvGuardian fixes this by letting you define a **single schema** and validate al
 ## Install
 
 ```bash
-npm install -g envguardian
+ npm install -g https://registry.npmjs.org/@saarors/envguardian/-/envguardian-0.1.1.tgz
 ```
 ## Quick start
 **1. Create a schema file**
