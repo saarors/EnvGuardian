@@ -19,7 +19,7 @@
     "cli",
     "devops"
   ],
-  "author": "Your Name",
+  "author": "saarors",
   "license": "MIT",
   "dependencies": {
     "yaml": "^2.5.0"
