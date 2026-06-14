@@ -24,8 +24,6 @@ EnvGuardian fixes this by letting you define a **single schema** and validate al
 
 ```bash
 npm install -g envguardian
-# or
-npx envguardian --help
 ```
 ## Quick start
 **1. Create a schema file**
