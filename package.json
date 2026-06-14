@@ -1,5 +1,5 @@
 {
-  "name": "envguardian",
+  "name": "@saarors/envguardian",
   "version": "0.1.0",
   "description": "Smart schema-based validation for .env files across environments.",
   "bin": {
