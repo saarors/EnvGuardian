@@ -5,6 +5,11 @@
   "bin": {
     "envguardian": "dist/bin/envguardian.js"
   },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "build": "tsc",
     "start": "ts-node src/index.ts",
