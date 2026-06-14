@@ -1,0 +1,32 @@
+{
+  "name": "envguardian",
+  "version": "0.1.0",
+  "description": "Smart schema-based validation for .env files across environments.",
+  "bin": {
+    "envguardian": "dist/bin/envguardian.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node bin/envguardian.ts"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "config",
+    "validation",
+    "schema",
+    "cli",
+    "devops"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.0"
+  }
+}
